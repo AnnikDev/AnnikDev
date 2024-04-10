@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ani</h1>
-<h3 align="center"> <a href="https://emoji.gg/emoji/5744-typing"><img src="https://cdn3.emoji.gg/emojis/5744-typing.gif" width="64px" height="64px" alt="Typing"></a> Frontend Developer From Georgia</h3>
+<h3 align="center"> <a href="https://emoji.gg/emoji/5744-typing"><img src="https://cdn3.emoji.gg/emojis/5744-typing.gif" width="34px" height="34px" alt="Typing"></a> Frontend Developer From Georgia</h3>
 
 - 📫 How to reach me **annakvernadze@outlook.com**
 
