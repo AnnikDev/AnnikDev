@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://emoji.gg/emoji/7122-motionlilahello"><img src="https://cdn3.emoji.gg/emojis/7122-motionlilahello.gif" width="64px" height="64px" alt="MotionLilaHello"></a> I'm Ani</h1>
+<h1 align="center"><a href="https://emoji.gg/emoji/5152-pepehi"><img src="https://cdn3.emoji.gg/emojis/5152-pepehi.gif" width="30px" height="30px" alt="pepehi"></a> I'm Ani</h1>
 <h3 align="center"> <a href="https://emoji.gg/emoji/2262-pink-laptop"><img src="https://cdn3.emoji.gg/emojis/2262-pink-laptop.gif" width="30px" height="30px" alt="pink_laptop"></a> Frontend Developer From Georgia</h3>
 
 - 📫 How to reach me **annakvernadze@outlook.com**
