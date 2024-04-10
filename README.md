@@ -1,10 +1,5 @@
-<p align="center"> <img src="https://cdn3.emoji.gg/emojis/5744-typing.gif" width="80px" height="80px" alt="Typing"></a></p>
 
-
-<h1 align="center">Hi<picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
-</picture>, I'm Ani</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="40" height="40" />, I'm Ani</h1>
 <h3 align="center"> Frontend Developer From Georgia</h3>
 
 
