@@ -1,5 +1,11 @@
-<h1 align="center"><a href="https://emoji.gg/emoji/4225-peepo-wave"><img src="https://cdn3.emoji.gg/emojis/4225-peepo-wave.gif" width="35px" height="35px" alt="peepo_wave"></a> I'm Ani</h1>
-<h3 align="center"> <a href="https://emoji.gg/emoji/6038-peepochat"><img src="https://cdn3.emoji.gg/emojis/6038-peepochat.gif" width="35px" height="35px" alt="Peepochat"></a> Frontend Developer From Georgia</h3>
+<p align="center"> <img src="https://cdn3.emoji.gg/emojis/5744-typing.gif" width="80px" height="80px" alt="Typing"></a></p>
+
+
+<h1 align="center">Hi<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
+</picture>, I'm Ani</h1>
+<h3 align="center"> Frontend Developer From Georgia</h3>
 
 
  📫 How to reach me **annakvernadze@outlook.com**
