@@ -1,5 +1,5 @@
 <h1 align="center"><a href="https://emoji.gg/emoji/4225-peepo-wave"><img src="https://cdn3.emoji.gg/emojis/4225-peepo-wave.gif" width="35px" height="35px" alt="peepo_wave"></a> I'm Ani</h1>
-<h3 align="center" border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));> <a href="https://emoji.gg/emoji/6038-peepochat"><img src="https://cdn3.emoji.gg/emojis/6038-peepochat.gif" width="35px" height="35px" alt="Peepochat"></a> Frontend Developer From Georgia</h3>
+<h3 align="center"> <a href="https://emoji.gg/emoji/6038-peepochat"><img src="https://cdn3.emoji.gg/emojis/6038-peepochat.gif" width="35px" height="35px" alt="Peepochat"></a> Frontend Developer From Georgia</h3>
 
 - 📫 How to reach me **annakvernadze@outlook.com**
 
