@@ -12,7 +12,6 @@
 <div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=annikdev&show_icons=true&theme=dark&bg_color=0d1117&locale=en&layout=compact" alt="annikdev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=annikdev&show_icons=true&theme=dark&bg_color=0d1117&locale=en" alt="annikdev" /></p>
 </div>
 <br><br>
 
